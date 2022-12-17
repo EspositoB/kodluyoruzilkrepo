@@ -3,6 +3,8 @@ Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz 
 
 [Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
+[Patika Profilim](https://app.patika.dev/ertekind)
+
 
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
@@ -30,3 +32,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
